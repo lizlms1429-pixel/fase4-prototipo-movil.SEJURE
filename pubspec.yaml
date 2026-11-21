@@ -2,6 +2,7 @@ name: sejure_app
 description: Prototipo móvil para la consulta de remates judiciales en Colombia.
 publish_to: "none"
 version: 1.0.0+1
+author: Lizbeth Moncada
 
 environment:
   sdk: ">=3.3.0 <4.0.0"
